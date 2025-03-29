@@ -96,14 +96,3 @@ for learning_rate in n: #iterates over n
 print("------------------------------------------------------------------")
 print(f"Highest overall Perceptron accuracy: {highest_perceptron_accuracy : .4f}, Parameters: learning_rate={best_perceptron_learning_rate}, shuffle={best_perceptron_shuffle}")
 print(f"Highest overall MLP accuracy: {highest_mlp_accuracy : .4f}, Parameters: learning_rate={best_mlp_learning_rate}, shuffle={best_mlp_shuffle}")
-
-
-
-
-
-
-
-
-
-
-
